@@ -55,7 +55,7 @@ Researchers, developers, and organizations can:
 
 If you use **BiasRadar-WebRTC** or its hosted platform in your research, please cite:
 
-> Venansious, S. A., & Berengueres, J. (2025).  
+> Steaphen Antony Venansious, S. A., & Berengueres, J. (2025).  
 > *BiasRadar-WebRTC: A Privacy-First WebRTC Co-Browsing Engine for Ethical AI Research.*  
 > Algorethics Open Source Initiative, [https://BiasRadar.ai](https://BiasRadar.ai).
 
