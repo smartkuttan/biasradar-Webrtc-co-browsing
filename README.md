@@ -1,7 +1,7 @@
 # 🧭 BiasRadar-WebRTC — Privacy-First WebRTC Co-Browsing Engine  
 > *Part of the BiasRadar Open Source Initiative*  
 > Developed by **Stephen Antony Venansious** (steve@algorethics.ai)  
-> Guided by **Prof. Dr. José Berengueres** (jse@ieee.org)  
+> Chief Mentor by **Prof. Dr. José Berengueres** (jse@ieee.org)  
 > Co-Founder & Chief Ethical Innovation Officer — **Robert McNamara** (robert@algorethics.ai)  
 > **Powered by [Algorethics.ai](https://algorethics.ai)**  
 
