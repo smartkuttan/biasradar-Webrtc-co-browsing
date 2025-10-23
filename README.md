@@ -28,6 +28,53 @@ Built under the **BiasRadar** umbrella, BiasRadar-WebRTC advances **ethical, tra
 
 ---
 
+---
+
+## 🧪 Research & Collaboration Platform
+
+**BiasRadar-WebRTC** is actively hosted on **[BiasRadar.ai](https://BiasRadar.ai)** as part of the **BiasRadar Research and Collaboration Platform** — a live ecosystem for ethical AI experiments, co-browsing studies, and transparency-focused development.
+
+Researchers, developers, and organizations can:
+- 🔬 **Run live WebRTC co-browsing experiments** to study human–AI interaction.  
+- 🧑‍🤝‍🧑 **Collaborate on ethical AI projects** using BiasRadar’s integrated communication, annotation, and co-analysis tools.  
+- 📊 **Access dashboards** for monitoring model fairness, data transparency, and compliance analytics.  
+- 🧠 **Use BiasRadar’s open APIs** for integrating bias detection, session auditing, and co-learning modules into existing research pipelines.  
+- 🧾 **Publish session insights** as verifiable reports or export co-browsing sessions as reproducible case studies.  
+
+**Platform Highlights:**
+- Hosted and maintained by **[Algorethics.ai](https://Algorethics.ai)**.  
+- Includes sandbox environments for **BiasRadar-WebRTC**, **DiscernAI**, and **Carlo PEaaS**.  
+- Offers **multi-user collaboration** features for universities, researchers, and innovation teams.  
+- Supports **on-premise deployment** for organizations working with sensitive data.  
+
+> Visit **[https://BiasRadar.ai](https://BiasRadar.ai)** to explore live sessions, collaborate on open research, or join the global community advancing **ethical, transparent, and responsible AI**.
+
+---
+
+## 🌐 Citation and Research Attribution
+
+If you use **BiasRadar-WebRTC** or its hosted platform in your research, please cite:
+
+> Venansious, S. A., & Berengueres, J. (2025).  
+> *BiasRadar-WebRTC: A Privacy-First WebRTC Co-Browsing Engine for Ethical AI Research.*  
+> Algorethics Open Source Initiative, [https://BiasRadar.ai](https://BiasRadar.ai).
+
+---
+
+## 🧩 Related Projects in the BiasRadar Ecosystem
+
+| Project | Description | Link |
+|----------|--------------|------|
+| **Carlo PEaaS** | Real-time Policy Enforcement-as-a-Service for AI systems | [https://carlopeaas.dev/](https://carlopeaas.dev/) |
+| **DiscernAI** | Bias detection and misinformation monitoring engine | [https://carlopeaas.dev/](https://carlopeaas.dev/) |
+| **RoboEthix** | Ethical robotics and autonomy compliance toolkit | [algorethics.ai/roboethix](https://algorethics.ai) |
+| **Childsafe.dev** | Privacy-first guardian AI for child safety and content moderation | [childsafe.dev](https://childsafe.dev) |
+
+---
+
+> “At **BiasRadar.ai**, innovation meets integrity — empowering researchers and developers to collaborate responsibly in an open, transparent, and ethically aligned ecosystem.”
+
+
 ## 🔥 Key Features
 
 | Capability | Description |
